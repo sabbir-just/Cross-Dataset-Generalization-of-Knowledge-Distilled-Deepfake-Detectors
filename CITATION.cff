@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Cross-Dataset Generalization of Knowledge-Distilled Deepfake Detectors"
+type: software
+authors:
+  - family-names: Hasan
+    given-names: Syed Azmul
+    affiliation: "Department of Mathematics, Jashore University of Science and Technology"
+  - family-names: Bulbul
+    given-names: Md. Farhad
+    affiliation: "Department of Mathematics, Jashore University of Science and Technology"
+repository-code: "https://github.com/sabbir-just/Cross-Dataset-Generalization-of-Knowledge-Distilled-Deepfake-Detectors"
+license: MIT
+date-released: "2026-10-07"
+keywords:
+  - deepfake detection
+  - knowledge distillation
+  - cross-dataset generalization
+  - vision transformer
+  - EfficientNet

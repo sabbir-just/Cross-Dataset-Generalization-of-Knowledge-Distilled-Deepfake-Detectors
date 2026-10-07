@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+
+# Weights, outputs and data
+*.pth
+*.pt
+*.ckpt
+*.pkl
+*.npy
+kd_outputs/
+kd_phase2_outputs/
+kd_dfdc_v3/
+kd_dpvit_diffusion_outputs/

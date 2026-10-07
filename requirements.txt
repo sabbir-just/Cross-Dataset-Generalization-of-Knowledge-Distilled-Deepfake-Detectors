@@ -1,0 +1,13 @@
+torch>=2.0
+torchvision>=0.15
+timm>=0.9
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+opencv-python
+Pillow
+tqdm
+ipywidgets          # tqdm.notebook in the FF++ and DFDC scripts
+albumentations>=1.3 # Diffusion KD.py
